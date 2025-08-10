@@ -56,7 +56,7 @@
 ---
 
 ## 🔍 Questions for Supervisor
-- 
+- How do we determine the portion of the data that can be used to determining stellar oscillation if a significant chunk of it is dominated by the dip caused by a transiting planet?
 
 ---
 
